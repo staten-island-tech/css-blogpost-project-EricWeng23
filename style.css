@@ -12,5 +12,20 @@ h1 {
 
 .goku {
   background-image: url(img/Goku\ background\ img.png);
+  background-size: 480px auto;
+  height: 30vh;
+  width: 50vh;
+  margin: 30px auto;
+}
+.Character1 {
+  text-align: center;
+}
+
+.vegeta {
+  background-image: url(img/vegeta\ background.jpg);
+  height: 50vh;
+}
+
+.freiza {
   height: 50vh;
 }
