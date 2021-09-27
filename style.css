@@ -12,6 +12,9 @@ body {
   text-align: center;
   margin: 30px auto;
 }
+span {
+  color: #ff0000;
+}
 
 .BlogPost1 {
   height: 30vh;
