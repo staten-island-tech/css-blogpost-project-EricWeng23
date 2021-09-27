@@ -16,7 +16,7 @@ span {
   color: #ff0000;
 }
 
-.blogpost {
+.blogpost1 {
   border: 3px solid #000000;
   border-radius: 30px;
   text-align: center;
@@ -28,6 +28,33 @@ span {
   background-position: center;
   background-size: cover;
   color: #fff;
+}
+
+.blogpost2 {
+  border: 3px solid #000000;
+  border-radius: 30px;
+  text-align: center;
+  margin: 30px auto;
+  width: 30vw;
+  height: 30vh;
+  background-image: url(img/vegeta\ background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #000000;
+}
+.blogpost3 {
+  border: 3px solid #000000;
+  border-radius: 30px;
+  text-align: center;
+  margin: 30px auto;
+  width: 30vw;
+  height: 30vh;
+  background-image: url(img/frieza\ background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ff0000;
 }
 
 .Name {
