@@ -16,46 +16,34 @@ span {
   color: #ff0000;
 }
 
-.blogpost1 {
+
+.blogpost {
   border: 3px solid #000000;
   border-radius: 30px;
   text-align: center;
   margin: 30px auto;
   width: 30vw;
   height: 30vh;
-  background-image: url(img/Goku\ background\ img.png);
-  background-repeat: no-repeat;
+}
+.post-character{
   background-position: center;
   background-size: cover;
-  color: #fff;
+  background-repeat: no-repeat;
 }
 
-.blogpost2 {
-  border: 3px solid #000000;
-  border-radius: 30px;
-  text-align: center;
-  margin: 30px auto;
-  width: 30vw;
-  height: 30vh;
-  background-image: url(img/vegeta\ background.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+.goku {
+  background-image: url(img/Goku\ background\ img.png);
   color: #000000;
 }
-.blogpost3 {
-  border: 3px solid #000000;
-  border-radius: 30px;
-  text-align: center;
-  margin: 30px auto;
-  width: 30vw;
-  height: 30vh;
+.vegeta {
+background-image: url(img/vegeta\ background.jpg);
+color: #000000;
+}
+.kidboo {
   background-image: url(img/frieza\ background.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   color: #ff0000;
 }
+
 
 .Name {
   color: #000000;
