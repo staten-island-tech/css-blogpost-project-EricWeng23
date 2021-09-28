@@ -16,48 +16,34 @@ span {
   color: #ff0000;
 }
 
-.BlogPost1 {
+
+
+.post-character {
   height: 30vh;
   width: 50vh;
   margin: 30px auto;
   border: 3px solid #000000;
   border-radius: 30px;
   text-align: center;
-  background-image: url(img/Goku\ background\ img.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.goku {
+  background-image: url(img/Goku\ background\ img.png);
   color: #fff;
 }
 
-.BlogPost2 {
-  height: 30vh;
-  width: 50vh;
-  margin: 30px auto;
-  border: 3px solid #000000;
-  border-radius: 30px;
-  text-align: center;
+.vegeta {
   background-image: url(img/vegeta\ background.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #000000;
 }
 
-.BlogPost3 {
-  height: 30vh;
-  width: 50vh;
-  margin: 30px auto;
-  border: 3px solid #000000;
-  border-radius: 30px;
-  text-align: center;
-  background-image: url(https://wallpapercave.com/wp/o72eC1m.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+.frieza{
+  background-image: url(img/download.jpg);
   color: #ff0000;
 }
-
 .nameandclass {
   border: 3px solid #ff0000;
   border-radius: 30px;
