@@ -10,7 +10,6 @@ body {
 }
 .main-header {
   color: #ff0;
-<<<<<<< HEAD
   text-align: center;
   border: 3px solid #ff0000;
   border-radius: 30px;
@@ -61,46 +60,6 @@ color: #000000;
 }
 
 
-=======
-  border: 3px solid #ff0000;
-  border-radius: 30px;
-  padding: 10px;
-  width: 42vh;
-  text-align: center;
-  margin: 30px auto;
-}
-span {
-  color: #ff0000;
-}
-
-
-
-.post-character {
-  height: 30vh;
-  width: 50vh;
-  margin: 30px auto;
-  border: 3px solid #000000;
-  border-radius: 30px;
-  text-align: center;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.goku {
-  background-image: url(img/Goku\ background\ img.png);
-  color: #fff;
-}
-
-.vegeta {
-  background-image: url(img/vegeta\ background.jpg);
-  color: #000000;
-}
-
-.frieza{
-  background-image: url(img/download.jpg);
-  color: #ff0000;
->>>>>>> 752096216f95ff6b5bd4713fa51b706e257fa207
 }
 .nameandclass {
   border: 3px solid #ff0000;
