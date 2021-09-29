@@ -1,10 +1,5 @@
 body {
-<<<<<<< HEAD
   background-color: #add8e6;
-=======
-  background-color: #87CEFA;
-  font-family: 'Stick No Bills', sans-serif;
->>>>>>> 752096216f95ff6b5bd4713fa51b706e257fa207
   font-size: 25px;
   font-family: "Stick No Bills", sans-serif;
 }
@@ -21,9 +16,7 @@ span {
   color: #ff0000;
 }
 
-
-
-.post-character{
+.post-character {
   border: 3px solid #000000;
   border-radius: 30px;
   text-align: center;
@@ -40,14 +33,13 @@ span {
   color: #fff;
 }
 .vegeta {
-background-image: url(img/vegeta\ background.jpg);
-color: #000000;
+  background-image: url(img/vegeta\ background.jpg);
+  color: #000000;
 }
 .frieza {
   background-image: url(img/frieza\ background.jpg);
   color: #ff0000;
 }
-
 
 .Name {
   color: #000000;
@@ -56,18 +48,4 @@ color: #000000;
   border-radius: 30px;
   width: 25vw;
   margin: 30px auto;
-
 }
-
-
-}
-.nameandclass {
-  border: 3px solid #ff0000;
-  border-radius: 30px;
-  padding: 10px;
-  width: 42vh;
-  text-align: center;
-  margin: 30px auto;
-}
-
-
