@@ -17,15 +17,14 @@ span {
 }
 
 
-.blogpost {
+
+.post-character{
   border: 3px solid #000000;
   border-radius: 30px;
   text-align: center;
   margin: 30px auto;
   width: 30vw;
   height: 30vh;
-}
-.post-character{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -33,13 +32,13 @@ span {
 
 .goku {
   background-image: url(img/Goku\ background\ img.png);
-  color: #000000;
+  color: #fff;
 }
 .vegeta {
 background-image: url(img/vegeta\ background.jpg);
 color: #000000;
 }
-.kidboo {
+.frieza {
   background-image: url(img/frieza\ background.jpg);
   color: #ff0000;
 }
